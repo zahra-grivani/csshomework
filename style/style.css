@@ -1,0 +1,24 @@
+.para {
+    margin: auto;
+    background-color: bisque;
+    color: rgba(165, 79, 42, 0.839);
+    width: 30px ;
+    height: 50px;
+    padding: 60px;
+}
+.para1 {
+    margin: auto;
+    background-color: rgb(108, 151, 51);
+    color: rgba(165, 79, 42, 0.839);
+    width: 30px ;
+    height: 50px ;
+    padding: 60px;
+}
+.parent {
+margin: auto;
+background-color: rgb(141, 141, 23);
+width: 30px;
+height: 50;
+padding: 60px;
+
+}
